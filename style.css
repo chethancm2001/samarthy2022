@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    margin: 0px;
+    padding: 0px;  
+
+}
+header{
+ height: 140px;
+ background-color:#34495e;
+ padding-bottom: 10px;
+
+}
+
+
+#header-name{
+
+}
+#heder-content{
+
+font-family: 'Koulen', cursive;
+ font-style: bold;
+ color: white;
+ font-size: 55px;
+  
+ margin: auto;
+ margin-left: 30%;
+ padding-top: 10px;
+ 
+}
+#slogan{
+    
+font-family: 'Koulen', cursive;
+font-style: bold;
+color: white;
+font-size: 30px;
+    margin: auto;
+    margin-left: 30%;
+    padding-top: 10px;
+}
+#allevent{
+     height: 500px;
+    
+     background-color: #50DBB4;
+     padding: 10px;
+  
+    
+
+}
+#events{
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid black;
+    background-color: aliceblue;
+    border-radius: 25px;
+    height:150px;
+    padding: 20px;
+   
+    
+}
+#eventimg{
+  
+}
+h2{
+    text-align: center;
+    color: #34495e;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
